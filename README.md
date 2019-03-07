@@ -2,7 +2,7 @@
 
 This is a small program that calculates **MD5** and **SHA-256** encryption of an any given string.
 
-Program takes input of any size.
+Program takes input of any size from the command line.
 
 ---
 
